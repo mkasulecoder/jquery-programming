@@ -1,1 +1,1 @@
-# jquery-programming
+# JQuery Programming
