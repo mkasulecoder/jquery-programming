@@ -1,0 +1,54 @@
+.body {
+  background-color: red;
+}
+
+.row {
+  display: flex;
+  flex-direction: row !important;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-start {
+  align-items: flex-start;
+}
+
+.justify-content-start {
+  justify-content: flex-start;
+}
+
+.align-items-end {
+  align-items: flex-end;
+}
+
+.justify-content-end {
+  justify-content: flex-end;
+}
+
+.p-1 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.display-1 {
+  font-size: 3rem;
+}
+
+.blue {
+  background-color: blue;
+}
+
+/*# sourceMappingURL=output.css.map */
